@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\matmul",
+    "\\matmul\\x64",
+    "\\matmul\\x64\\Debug",
+    "\\x64\\Debug"
+  ],
+  "SelectedNode": "\\matmul\\matmul.vcxproj",
+  "PreviewInSolutionExplorer": false
+}

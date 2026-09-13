@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AI\\CUDA MODE\\lectures\\lecture_005\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AI\\CUDA MODE\\lectures\\lecture_005\\matmul\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:matmul\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AI\\CUDA MODE\\lectures\\lecture_005\\matmul\\matmul.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:matmul\\matmul.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AI\\CUDA MODE\\lectures\\lecture_005\\matmul\\matmul.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:matmul\\matmul.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AI\\CUDA MODE\\lectures\\lecture_005\\matmul\\x64\\Debug\\kernel.cu.cache||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:matmul\\x64\\Debug\\kernel.cu.cache||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AI\\CUDA MODE\\lectures\\lecture_005\\matmul\\x64\\Debug\\kernel.cu1844904702.deps||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:matmul\\x64\\Debug\\kernel.cu1844904702.deps||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AI\\CUDA MODE\\lectures\\lecture_005\\matmul.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:matmul.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kernel.cu",
+              "DocumentMoniker": "D:\\AI\\CUDA MODE\\lectures\\lecture_005\\matmul\\kernel.cu",
+              "RelativeDocumentMoniker": "matmul\\kernel.cu",
+              "ToolTip": "D:\\AI\\CUDA MODE\\lectures\\lecture_005\\matmul\\kernel.cu",
+              "RelativeToolTip": "matmul\\kernel.cu",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-22T19:05:50.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "matmul.vcxproj.user",
+              "DocumentMoniker": "D:\\AI\\CUDA MODE\\lectures\\lecture_005\\matmul\\matmul.vcxproj.user",
+              "RelativeDocumentMoniker": "matmul\\matmul.vcxproj.user",
+              "ToolTip": "D:\\AI\\CUDA MODE\\lectures\\lecture_005\\matmul\\matmul.vcxproj.user",
+              "RelativeToolTip": "matmul\\matmul.vcxproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2026-06-22T19:05:48.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "matmul.vcxproj",
+              "DocumentMoniker": "D:\\AI\\CUDA MODE\\lectures\\lecture_005\\matmul\\matmul.vcxproj",
+              "RelativeDocumentMoniker": "matmul\\matmul.vcxproj",
+              "ToolTip": "D:\\AI\\CUDA MODE\\lectures\\lecture_005\\matmul\\matmul.vcxproj",
+              "RelativeToolTip": "matmul\\matmul.vcxproj",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000698|",
+              "WhenOpened": "2026-06-22T19:05:45.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kernel.cu.cache",
+              "DocumentMoniker": "D:\\AI\\CUDA MODE\\lectures\\lecture_005\\matmul\\x64\\Debug\\kernel.cu.cache",
+              "RelativeDocumentMoniker": "matmul\\x64\\Debug\\kernel.cu.cache",
+              "ToolTip": "D:\\AI\\CUDA MODE\\lectures\\lecture_005\\matmul\\x64\\Debug\\kernel.cu.cache",
+              "RelativeToolTip": "matmul\\x64\\Debug\\kernel.cu.cache",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2026-06-22T19:05:43.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "kernel.cu1844904702.deps",
+              "DocumentMoniker": "D:\\AI\\CUDA MODE\\lectures\\lecture_005\\matmul\\x64\\Debug\\kernel.cu1844904702.deps",
+              "RelativeDocumentMoniker": "matmul\\x64\\Debug\\kernel.cu1844904702.deps",
+              "ToolTip": "D:\\AI\\CUDA MODE\\lectures\\lecture_005\\matmul\\x64\\Debug\\kernel.cu1844904702.deps",
+              "RelativeToolTip": "matmul\\x64\\Debug\\kernel.cu1844904702.deps",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-22T19:05:41.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "matmul.cu",
+              "DocumentMoniker": "D:\\AI\\CUDA MODE\\lectures\\lecture_005\\matmul.cu",
+              "RelativeDocumentMoniker": "matmul.cu",
+              "ToolTip": "D:\\AI\\CUDA MODE\\lectures\\lecture_005\\matmul.cu",
+              "RelativeToolTip": "matmul.cu",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-22T19:05:23.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
